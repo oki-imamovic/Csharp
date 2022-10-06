@@ -146,21 +146,88 @@ namespace Variables
             */
 
 
+            /*
+            If Else 
+             
+            int time = 20;
+            if (time < 18)
+            {
+                Console.WriteLine("Good day.");
+            }
+            else
+            {
+                Console.WriteLine("Good evening.");
+            }
+            */
 
 
+            /*
+            Else If
+
+            int time = 22;
+            if (time < 10)
+            {
+                Console.WriteLine("Good morning.");
+            }
+            else if (time < 20)
+            {
+                Console.WriteLine("Good day.");
+            }
+            else
+            {
+                Console.WriteLine("Good evening.");
+            }
+            */
 
 
+            /*
+            Switch
+
+            int day = 5;
+            switch (day)
+            {
+                case 1:
+                    Console.WriteLine("Monday");
+                    break;
+                case 2:
+                    Console.WriteLine("Tuesday");
+                    break;
+                case 3:
+                    Console.WriteLine("Wednesday");
+                    break;
+                case 4:
+                    Console.WriteLine("Thursday");
+                    break;
+                case 5:
+                    Console.WriteLine("Friday");
+                    break;
+                case 6:
+                    Console.WriteLine("Saturday");
+                    break;
+                case 7:
+                    Console.WriteLine("Sunday");
+                    break;
+            }
+            */
 
 
-
-
-
-
-
-
-
-
-
+            /*
+            Break
+             
+            int day = 2;
+            switch (day)
+            {
+                case 6:
+                    Console.WriteLine("Today is Saturday.");
+                    break;
+                case 7:
+                    Console.WriteLine("Today is Sunday.");
+                    break;
+                default:
+                    Console.WriteLine("Looking forward to the Weekend.");
+                    break;
+            }
+            */
 
         }
     }
