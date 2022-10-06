@@ -1,0 +1,13 @@
+C:\Users\Korisnik\source\repos\oki-imamovic\Csharp\training\06-10-2022\Variables\obj\Debug\netcoreapp3.1\Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\source\repos\oki-imamovic\Csharp\training\06-10-2022\Variables\obj\Debug\netcoreapp3.1\Variables.AssemblyInfoInputs.cache
+C:\Users\Korisnik\source\repos\oki-imamovic\Csharp\training\06-10-2022\Variables\obj\Debug\netcoreapp3.1\Variables.AssemblyInfo.cs
+C:\Users\Korisnik\source\repos\oki-imamovic\Csharp\training\06-10-2022\Variables\obj\Debug\netcoreapp3.1\Variables.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\oki-imamovic\Csharp\training\06-10-2022\Variables\bin\Debug\netcoreapp3.1\Variables.exe
+C:\Users\Korisnik\source\repos\oki-imamovic\Csharp\training\06-10-2022\Variables\bin\Debug\netcoreapp3.1\Variables.deps.json
+C:\Users\Korisnik\source\repos\oki-imamovic\Csharp\training\06-10-2022\Variables\bin\Debug\netcoreapp3.1\Variables.runtimeconfig.json
+C:\Users\Korisnik\source\repos\oki-imamovic\Csharp\training\06-10-2022\Variables\bin\Debug\netcoreapp3.1\Variables.runtimeconfig.dev.json
+C:\Users\Korisnik\source\repos\oki-imamovic\Csharp\training\06-10-2022\Variables\bin\Debug\netcoreapp3.1\Variables.dll
+C:\Users\Korisnik\source\repos\oki-imamovic\Csharp\training\06-10-2022\Variables\bin\Debug\netcoreapp3.1\Variables.pdb
+C:\Users\Korisnik\source\repos\oki-imamovic\Csharp\training\06-10-2022\Variables\obj\Debug\netcoreapp3.1\Variables.dll
+C:\Users\Korisnik\source\repos\oki-imamovic\Csharp\training\06-10-2022\Variables\obj\Debug\netcoreapp3.1\Variables.pdb
+C:\Users\Korisnik\source\repos\oki-imamovic\Csharp\training\06-10-2022\Variables\obj\Debug\netcoreapp3.1\Variables.genruntimeconfig.cache
