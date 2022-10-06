@@ -11,3 +11,4 @@ C:\Users\Korisnik\source\repos\oki-imamovic\Csharp\training\06-10-2022\Variables
 C:\Users\Korisnik\source\repos\oki-imamovic\Csharp\training\06-10-2022\Variables\obj\Debug\netcoreapp3.1\Variables.dll
 C:\Users\Korisnik\source\repos\oki-imamovic\Csharp\training\06-10-2022\Variables\obj\Debug\netcoreapp3.1\Variables.pdb
 C:\Users\Korisnik\source\repos\oki-imamovic\Csharp\training\06-10-2022\Variables\obj\Debug\netcoreapp3.1\Variables.genruntimeconfig.cache
+C:\Users\Korisnik\source\repos\oki-imamovic\Csharp\training\06-10-2022\Variables\obj\Debug\netcoreapp3.1\Variables.csproj.AssemblyReference.cache
