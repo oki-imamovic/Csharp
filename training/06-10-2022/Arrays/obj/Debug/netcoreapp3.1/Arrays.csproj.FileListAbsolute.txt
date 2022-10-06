@@ -11,3 +11,4 @@ C:\Users\Korisnik\source\repos\oki-imamovic\Csharp\training\06-10-2022\Arrays\ob
 C:\Users\Korisnik\source\repos\oki-imamovic\Csharp\training\06-10-2022\Arrays\obj\Debug\netcoreapp3.1\Arrays.dll
 C:\Users\Korisnik\source\repos\oki-imamovic\Csharp\training\06-10-2022\Arrays\obj\Debug\netcoreapp3.1\Arrays.pdb
 C:\Users\Korisnik\source\repos\oki-imamovic\Csharp\training\06-10-2022\Arrays\obj\Debug\netcoreapp3.1\Arrays.genruntimeconfig.cache
+C:\Users\Korisnik\source\repos\oki-imamovic\Csharp\training\06-10-2022\Arrays\obj\Debug\netcoreapp3.1\Arrays.csproj.AssemblyReference.cache
