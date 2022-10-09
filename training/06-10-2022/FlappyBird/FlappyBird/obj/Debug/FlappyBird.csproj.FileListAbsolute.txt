@@ -1,0 +1,10 @@
+C:\Users\Korisnik\source\repos\oki-imamovic\Csharp\training\06-10-2022\FlappyBird\FlappyBird\bin\Debug\FlappyBird.exe.config
+C:\Users\Korisnik\source\repos\oki-imamovic\Csharp\training\06-10-2022\FlappyBird\FlappyBird\bin\Debug\FlappyBird.exe
+C:\Users\Korisnik\source\repos\oki-imamovic\Csharp\training\06-10-2022\FlappyBird\FlappyBird\bin\Debug\FlappyBird.pdb
+C:\Users\Korisnik\source\repos\oki-imamovic\Csharp\training\06-10-2022\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.AssemblyReference.cache
+C:\Users\Korisnik\source\repos\oki-imamovic\Csharp\training\06-10-2022\FlappyBird\FlappyBird\obj\Debug\FlappyBird.Form1.resources
+C:\Users\Korisnik\source\repos\oki-imamovic\Csharp\training\06-10-2022\FlappyBird\FlappyBird\obj\Debug\FlappyBird.Properties.Resources.resources
+C:\Users\Korisnik\source\repos\oki-imamovic\Csharp\training\06-10-2022\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.GenerateResource.cache
+C:\Users\Korisnik\source\repos\oki-imamovic\Csharp\training\06-10-2022\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\oki-imamovic\Csharp\training\06-10-2022\FlappyBird\FlappyBird\obj\Debug\FlappyBird.exe
+C:\Users\Korisnik\source\repos\oki-imamovic\Csharp\training\06-10-2022\FlappyBird\FlappyBird\obj\Debug\FlappyBird.pdb
