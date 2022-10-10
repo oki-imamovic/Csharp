@@ -1,0 +1,13 @@
+C:\Users\Korisnik\source\repos\oki-imamovic\Csharp\training\10-10-2022\Objects\Songs\bin\Debug\netcoreapp3.1\Songs.exe
+C:\Users\Korisnik\source\repos\oki-imamovic\Csharp\training\10-10-2022\Objects\Songs\bin\Debug\netcoreapp3.1\Songs.deps.json
+C:\Users\Korisnik\source\repos\oki-imamovic\Csharp\training\10-10-2022\Objects\Songs\bin\Debug\netcoreapp3.1\Songs.runtimeconfig.json
+C:\Users\Korisnik\source\repos\oki-imamovic\Csharp\training\10-10-2022\Objects\Songs\bin\Debug\netcoreapp3.1\Songs.runtimeconfig.dev.json
+C:\Users\Korisnik\source\repos\oki-imamovic\Csharp\training\10-10-2022\Objects\Songs\bin\Debug\netcoreapp3.1\Songs.dll
+C:\Users\Korisnik\source\repos\oki-imamovic\Csharp\training\10-10-2022\Objects\Songs\bin\Debug\netcoreapp3.1\Songs.pdb
+C:\Users\Korisnik\source\repos\oki-imamovic\Csharp\training\10-10-2022\Objects\Songs\obj\Debug\netcoreapp3.1\Songs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\source\repos\oki-imamovic\Csharp\training\10-10-2022\Objects\Songs\obj\Debug\netcoreapp3.1\Songs.AssemblyInfoInputs.cache
+C:\Users\Korisnik\source\repos\oki-imamovic\Csharp\training\10-10-2022\Objects\Songs\obj\Debug\netcoreapp3.1\Songs.AssemblyInfo.cs
+C:\Users\Korisnik\source\repos\oki-imamovic\Csharp\training\10-10-2022\Objects\Songs\obj\Debug\netcoreapp3.1\Songs.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\oki-imamovic\Csharp\training\10-10-2022\Objects\Songs\obj\Debug\netcoreapp3.1\Songs.dll
+C:\Users\Korisnik\source\repos\oki-imamovic\Csharp\training\10-10-2022\Objects\Songs\obj\Debug\netcoreapp3.1\Songs.pdb
+C:\Users\Korisnik\source\repos\oki-imamovic\Csharp\training\10-10-2022\Objects\Songs\obj\Debug\netcoreapp3.1\Songs.genruntimeconfig.cache
