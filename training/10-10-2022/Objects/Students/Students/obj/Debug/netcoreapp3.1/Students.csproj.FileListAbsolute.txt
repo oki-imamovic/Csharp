@@ -1,0 +1,13 @@
+C:\Users\Korisnik\source\repos\oki-imamovic\Csharp\training\10-10-2022\Objects\Students\Students\bin\Debug\netcoreapp3.1\Students.exe
+C:\Users\Korisnik\source\repos\oki-imamovic\Csharp\training\10-10-2022\Objects\Students\Students\bin\Debug\netcoreapp3.1\Students.deps.json
+C:\Users\Korisnik\source\repos\oki-imamovic\Csharp\training\10-10-2022\Objects\Students\Students\bin\Debug\netcoreapp3.1\Students.runtimeconfig.json
+C:\Users\Korisnik\source\repos\oki-imamovic\Csharp\training\10-10-2022\Objects\Students\Students\bin\Debug\netcoreapp3.1\Students.runtimeconfig.dev.json
+C:\Users\Korisnik\source\repos\oki-imamovic\Csharp\training\10-10-2022\Objects\Students\Students\bin\Debug\netcoreapp3.1\Students.dll
+C:\Users\Korisnik\source\repos\oki-imamovic\Csharp\training\10-10-2022\Objects\Students\Students\bin\Debug\netcoreapp3.1\Students.pdb
+C:\Users\Korisnik\source\repos\oki-imamovic\Csharp\training\10-10-2022\Objects\Students\Students\obj\Debug\netcoreapp3.1\Students.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\source\repos\oki-imamovic\Csharp\training\10-10-2022\Objects\Students\Students\obj\Debug\netcoreapp3.1\Students.AssemblyInfoInputs.cache
+C:\Users\Korisnik\source\repos\oki-imamovic\Csharp\training\10-10-2022\Objects\Students\Students\obj\Debug\netcoreapp3.1\Students.AssemblyInfo.cs
+C:\Users\Korisnik\source\repos\oki-imamovic\Csharp\training\10-10-2022\Objects\Students\Students\obj\Debug\netcoreapp3.1\Students.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\oki-imamovic\Csharp\training\10-10-2022\Objects\Students\Students\obj\Debug\netcoreapp3.1\Students.dll
+C:\Users\Korisnik\source\repos\oki-imamovic\Csharp\training\10-10-2022\Objects\Students\Students\obj\Debug\netcoreapp3.1\Students.pdb
+C:\Users\Korisnik\source\repos\oki-imamovic\Csharp\training\10-10-2022\Objects\Students\Students\obj\Debug\netcoreapp3.1\Students.genruntimeconfig.cache
