@@ -1,0 +1,13 @@
+C:\Users\Korisnik\source\repos\oki-imamovic\Csharp\training\10-10-2022\Objects\Movies\bin\Debug\netcoreapp3.1\Movies.exe
+C:\Users\Korisnik\source\repos\oki-imamovic\Csharp\training\10-10-2022\Objects\Movies\bin\Debug\netcoreapp3.1\Movies.deps.json
+C:\Users\Korisnik\source\repos\oki-imamovic\Csharp\training\10-10-2022\Objects\Movies\bin\Debug\netcoreapp3.1\Movies.runtimeconfig.json
+C:\Users\Korisnik\source\repos\oki-imamovic\Csharp\training\10-10-2022\Objects\Movies\bin\Debug\netcoreapp3.1\Movies.runtimeconfig.dev.json
+C:\Users\Korisnik\source\repos\oki-imamovic\Csharp\training\10-10-2022\Objects\Movies\bin\Debug\netcoreapp3.1\Movies.dll
+C:\Users\Korisnik\source\repos\oki-imamovic\Csharp\training\10-10-2022\Objects\Movies\bin\Debug\netcoreapp3.1\Movies.pdb
+C:\Users\Korisnik\source\repos\oki-imamovic\Csharp\training\10-10-2022\Objects\Movies\obj\Debug\netcoreapp3.1\Movies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\source\repos\oki-imamovic\Csharp\training\10-10-2022\Objects\Movies\obj\Debug\netcoreapp3.1\Movies.AssemblyInfoInputs.cache
+C:\Users\Korisnik\source\repos\oki-imamovic\Csharp\training\10-10-2022\Objects\Movies\obj\Debug\netcoreapp3.1\Movies.AssemblyInfo.cs
+C:\Users\Korisnik\source\repos\oki-imamovic\Csharp\training\10-10-2022\Objects\Movies\obj\Debug\netcoreapp3.1\Movies.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\oki-imamovic\Csharp\training\10-10-2022\Objects\Movies\obj\Debug\netcoreapp3.1\Movies.dll
+C:\Users\Korisnik\source\repos\oki-imamovic\Csharp\training\10-10-2022\Objects\Movies\obj\Debug\netcoreapp3.1\Movies.pdb
+C:\Users\Korisnik\source\repos\oki-imamovic\Csharp\training\10-10-2022\Objects\Movies\obj\Debug\netcoreapp3.1\Movies.genruntimeconfig.cache
